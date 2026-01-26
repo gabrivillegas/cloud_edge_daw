@@ -81,7 +81,3 @@ El equipo de desarrollo se centra en el código, los datos y la configuración d
 
 * IBM — IaaS, PaaS y SaaS: [https://www.ibm.com/think/topics/iaas-paas-saas](https://www.ibm.com/think/topics/iaas-paas-saas)
 * Google Cloud Architecture Center: [https://cloud.google.com/architecture](https://cloud.google.com/architecture)
-
----
-
-Si quieres, puedo **adaptar el diagrama a un caso concreto** (por ejemplo, usando Google Workspace + App Engine, o una arquitectura 100 % AWS) o **simplificar el texto para nivel ESO/FP**.
